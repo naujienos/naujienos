@@ -8,7 +8,7 @@
 naujienos/naujienos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://gugli.lt/category/populiarios-naujienos/">Populiarios naujienos</a>
-<a href="https://gugli.lt/category/sveikata/">Sveikata</a>
-<a href="https://gugli.lt/category/dvasingumas/">Dvasingumas</a>
-<a href="https://gugli.lt/category/keliones/">Kelionės</a>
+<a href="https://guglika.lt/sveikinimai-gimtadienio-proga">Sveikinimai gimtadienio proga</a>
+<a href="https://guglika.lt/geriausi-gimtadienio-sveikinimai">Geriausi gimtadienio sveikinimai</a>
+<a href="https://trumpiau.lt/kraujo-spaudimas-gyvybes-srautas-jusu-arterijose">Kraujo spaudimas</a>
+<a href="https://trumpiau.lt/nagu-odos-grybelis-visi-atsakymai">Nagų, odos grybelis</a>
